@@ -43,8 +43,8 @@ mill is simple library for Node.js that makes working with milliseconds more fun
 	
 ## Inspiration
 
-- should.js
-- colors
+- should.js (https://github.com/visionmedia/should.js)
+- colors (https://github.com/Marak/colors.js)
 
 ## License
 
