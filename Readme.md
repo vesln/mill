@@ -33,7 +33,7 @@ CoffeeScript:
 	console.log 1.minute
 	console.log 2.hours
 	console.log 3.weeks
-	console.log 4.month
+	console.log 4.months
 	console.log 1.year
 	console.log 1.day + 30.seconds
 
