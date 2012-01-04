@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/vesln/mill.png)](http://travis-ci.org/vesln/mill)
+
 # mill(iseconds) - Readable time for you and other humans.
 
 http://github.com/vesln/mill
