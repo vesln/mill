@@ -14,6 +14,7 @@ mill is simple library for Node.js that makes working with milliseconds more fun
 
 JavaScript:
 
+	```javascript
 	var mill = require('mill');
 	
 	console.log( 10..seconds ); // 10000
@@ -24,9 +25,11 @@ JavaScript:
 	console.log( (1).year ); // 31556925993.600002
 	
 	console.log( 1..day + 30..seconds ); // 86430000
-
-CoffeeScript:
+	```
 	
+CoffeeScript:
+
+	```coffeescript
 	require 'mill'
 	
 	console.log 10.seconds
@@ -36,7 +39,8 @@ CoffeeScript:
 	console.log 4.months
 	console.log 1.year
 	console.log 1.day + 30.seconds
-
+	```
+	
 ## Requirements
 
 - NPM (http://npmjs.org/)
